@@ -5,7 +5,7 @@ The "HR Metrics Dashboard" is a comprehensive data visualization created in Tabl
 
 # Information of each sheet #
 
-# Sheet 1 # : This is a text sheet is named "Total Employees" and is created using the calculated field.
+Sheet 1  : This is a text sheet is named "Total Employees" and is created using the calculated field.
 Sheet 2 : This is a text sheet is named "Average age of the employees" and is created using the calculated field.
 Sheet 3 : This is a text sheet is named "Average years at company" and is created using the calculated field.
 Sheet 4 : This is a text sheet is named "Total working years at company" and is created using the calculated field.
